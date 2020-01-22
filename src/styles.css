@@ -6,6 +6,14 @@ body {
     margin-top: 20px;
 }
 
+.img-logo {
+    height: 150px;
+}
+
+.img-container-block {
+    text-align: center;
+}
+
 
 /* Animaciones */
 
