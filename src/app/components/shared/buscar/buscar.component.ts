@@ -19,8 +19,5 @@ export class BuscarComponent implements OnInit {
   ngOnInit() {
   }
 
-  verHeroe( id: number ) {
-    this.router.navigate(['/heroe', id]);
-  }
 
 }
